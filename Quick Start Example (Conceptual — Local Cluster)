@@ -1,0 +1,10 @@
+from dask.distributed import Client
+import dask.array as da
+
+client = Client(n_workers=4)  # Local cluster (dashboard at http://127.0.0.1:8787)
+print(client)  # Shows cluster info
+
+# Large array computation (parallel chunks)
+x = da.random.random((20000, 20000), chunks=(5000, 5000))
+mean = x.mean().compute()  # Distributed execution
+print(mean)
