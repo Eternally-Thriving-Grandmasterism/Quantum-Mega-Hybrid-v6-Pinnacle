@@ -1,0 +1,6 @@
+numpy>=1.21.0
+torch>=2.0.0
+chess>=1.10.0
+qutip>=4.7.0
+astropy>=5.0
+# Org pinnacles via git in README
