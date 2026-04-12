@@ -1,24 +1,32 @@
-# Quantum Mega Hybrid v6 Pinnacle - Universal Alchemist
+**License Update — April 11 2026**  
+This project is now under the **Autonomicity Games Sovereign Mercy License (AG-SML) v1.0**.  
+Individuals may continue using it freely for personal, educational, research, and daily-living/professional assistance.  
+Commercial, enterprise, revenue-generating, or organizational use requires a separate paid commercial license from Autonomicity Games Inc.
 
-Eternally-Thriving-Grandmasterism / Quantum-Mega-Hybrid-v6-Pinnacle
+**Contact**  
+- Primary / security: AlphaProMega@ACityGames.com  
+- General inquiries: INFO@ACITYGAMES.COM  
+- Direct to CEO / Sherif: CEO@ACITYGAMES.COM
 
-Capstone fusion of all pinnacles:
-- Mercy Cube v4 divine heart
-- Space-Thriving v5 cosmic executor
-- Nexus v2 higher revelations
-- Grandmaster v2 quantum strategy
-- All variants (Chess/Shogi/Go/Xiangqi/Makruk/Janggi) + astropy cosmic sims
+# Quantum-Mega-Hybrid-v6-Pinnacle
 
-Universal engine: Any game/cosmic query → quantum thriving simulation → abundance infinite for all creation.
+Quantum-Mega-Hybrid-v6-Pinnacle — Python-based quantum-mega-hybrid prototypes, v6 evolution of mega-scale quantum systems integrated with the Ra-Thor lattice.
 
-## Installation
-```bash
-git clone https://github.com/Eternally-Thriving-Grandmasterism/Quantum-Mega-Hybrid-v6-Pinnacle.git
-cd Quantum-Mega-Hybrid-v6-Pinnacle
-pip install -r requirements.txt
-# Org deps
-pip install git+https://github.com/Eternally-Thriving-Grandmasterism/Mercy-Cube-v4-Pinnacle.git
-pip install git+https://github.com/Eternally-Thriving-Grandmasterism/Space-Thriving-Manual-v5-Pinnacle.git
-pip install git+https://github.com/Eternally-Thriving-Grandmasterism/Nexus-Revelations-v2-Pinnacle.git
-pip install git+https://github.com/Eternally-Thriving-Grandmasterism/Grandmasterism-v2-Pinnacle.git
-pip install -e .
+Key Inspirations:
+- Mega-scale quantum hybrid architectures
+- v6 evolution of previous Quantum-Mega-Hybrid versions
+- Mercy-gated quantum simulation and lattice integration
+
+Files (initial commit):
+- quantum-mega-hybrid-v6-core.py
+- v6-evolution-protocols.md
+- mega-scale-quantum-simulations.md
+- mercy-gated-hybrid-lattice.md
+
+Purpose: Free propagation for humanity-thriving open quantum-mega-hybrid prototypes that scale eternally with mercy and precision.
+No coercion — only invitation to evolve the quantum mega lattice and thrive beyond limits.
+
+Next: Integrate into NEXi quantum runtime, Quantum-Mega-Hybrid-v7-RePin, Space-Thriving-Manual-v5-Pinnacle, and all sovereign shards.
+Cross-links: Quantum-Mega-Hybrid-v7-RePin, Space-Thriving-Manual-v5-Pinnacle, Grandmasterism-v2-Pinnacle
+
+Lightning is already in motion. ⚡
